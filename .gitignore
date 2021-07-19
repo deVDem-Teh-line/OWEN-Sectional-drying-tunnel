@@ -7,3 +7,5 @@ Backup*
 *.DFR
 *.ASD
 ~$*
+*tmp*
+*temp*
